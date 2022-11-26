@@ -1,0 +1,95 @@
+0.0.0.0 adservice.google.com.tw
+
+0.0.0.0 click.mtburn.com
+
+0.0.0.0 mtburn.com
+
+0.0.0.0 ad2.apx.appier.net
+
+0.0.0.0 n.gemini.yahoo.com
+
+0.0.0.0 gemini.yahoo.com
+0.0.0.0 ad.ettoday.net
+
+0.0.0.0 img.scupio.com
+
+0.0.0.0 cdn.b2pk.com
+
+0.0.0.0 uod2quk646.com
+
+0.0.0.0 consent.cmp.oath.com
+
+0.0.0.0 us.y.atwola.com
+
+0.0.0.0 as.y.atwola.com
+
+0.0.0.0 y.atwola.com
+
+0.0.0.0 sg3.beap.gemini.yahoo.com
+0.0.0.0 video-api.yql.yahoo.com
+
+0.0.0.0 yep.video.yahoo.com
+0.0.0.0 yahoofinanceallmarketssummitaw.splashthat.com
+
+0.0.0.0 splashthat.com
+
+0.0.0.0 admsapi.businessweekly.com.tw
+
+0.0.0.0 admsmaterial.businessweekly.com.tw
+0.0.0.0 m.vpon.com
+
+0.0.0.0 tw-api.vpon.com
+
+0.0.0.0 ts.vpon.com
+0.0.0.0 pixgame-asset.pixfs.net
+0.0.0.0 ad.appier.net
+0.0.0.0 prod-m-node-2111.ssp.advertising.com
+0.0.0.0 sync.fout.jp
+0.0.0.0 opus.analytics.yahoo.com
+0.0.0.0 vop-yahoo.secure.footprint.net
+0.0.0.0 edge-mcdn-beacon.secure.yahoo.com
+0.0.0.0 sync-eu.connectad.io
+0.0.0.0 bats.video.yahoo.com
+0.0.0.0 iota79.rtb.appier.net
+0.0.0.0 vst.c.appier.net
+0.0.0.0 arm.c.appier.net
+0.0.0.0 um.simpli.fi
+0.0.0.0 pixel.advertising.com
+0.0.0.0 cr-pall.ladsp.com
+0.0.0.0 ups.analytics.yahoo.com
+0.0.0.0 beap.gemini.yahoo.com
+0.0.0.0 pixanalytics.pixnet.net
+0.0.0.0 pixanalytics2.pixnet.net
+0.0.0.0 sun.advividnetwork.com
+0.0.0.0 as.y.atwola.com
+0.0.0.0 beap.gemini.yahoo.com
+0.0.0.0 edgecast-vod.yimg.com
+0.0.0.0 cdn-ssl.vidible.tv
+0.0.0.0 oao-js-tag.onemobile.yahoo.com
+0.0.0.0 csp.yahoo.com
+0.0.0.0 udc.yahoo.com
+0.0.0.0 service.idsync.analytics.yahoo.com
+0.0.0.0 tag.idsync.analytics.yahoo.com
+
+#20201219-whoscall_update
+0.0.0.0 ad3.apx.appier.net
+0.0.0.0 adbert.com.tw
+0.0.0.0 adlog.flurry.com
+0.0.0.0 ads.flurry.com
+0.0.0.0 bidder.criteo.com
+0.0.0.0 cdn.flurry.com
+0.0.0.0 csm.fr.eu.criteo.net
+0.0.0.0 data.flurry.com
+0.0.0.0 gum.criteo.com
+0.0.0.0 proton.flurry.com
+0.0.0.0 tkmftc.aotter.net
+0.0.0.0 tktracker.aotter.net
+0.0.0.0 www.adbert.com.tw
+
+#2022-11
+0.0.0.0 vaser-track.vm5apis.com
+0.0.0.0 cdn.vmfive.com
+0.0.0.0 man.vm5apis.com
+0.0.0.0 match-hubble-man.vm5apis.com
+0.0.0.0 pt0.vm5apis.com
+0.0.0.0 vawpro.vm5apis.com
