@@ -95,3 +95,4 @@
 0.0.0.0 vawpro.vm5apis.com
 
 0.0.0.0 ad.cardu.com.tw
+0.0.0.0 adimgcloud.cardu.com.tw
