@@ -93,3 +93,5 @@
 0.0.0.0 match-hubble-man.vm5apis.com
 0.0.0.0 pt0.vm5apis.com
 0.0.0.0 vawpro.vm5apis.com
+
+0.0.0.0 ad.cardu.com.tw
