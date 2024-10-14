@@ -96,3 +96,32 @@
 
 0.0.0.0 ad.cardu.com.tw
 0.0.0.0 adimgcloud.cardu.com.tw
+
+
+
+#202410
+0.0.0.0 httpkafka.unityads.unity3d.com
+
+0.0.0.0 auction-load.unityads.unity3d.com
+
+0.0.0.0 publisher-config.unityads.unity3d.com
+
+0.0.0.0 config.unityads.unity3d.com
+
+0.0.0.0 configv2.unityads.unity3d.com
+
+0.0.0.0 config.uca.cloud.unity3d.com
+
+0.0.0.0 events.mz.unity3d.com
+
+0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
+
+0.0.0.0 webview.unityads.unity3d.com
+
+0.0.0.0 2578.api.swrve.com
+
+0.0.0.0 2578.content.swrve.com
+
+0.0.0.0 launches.appsflyer.com
+
+0.0.0.0 inapps.appsflyer.com
