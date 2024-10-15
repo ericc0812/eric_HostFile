@@ -125,3 +125,7 @@
 0.0.0.0 launches.appsflyer.com
 
 0.0.0.0 inapps.appsflyer.com
+
+0.0.0.0 cdn2.inner-active.mobi
+
+0.0.0.0 inner-active.mobi
