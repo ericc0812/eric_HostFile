@@ -129,3 +129,12 @@
 0.0.0.0 cdn2.inner-active.mobi
 
 0.0.0.0 inner-active.mobi
+
+0.0.0.0 event.inner-active.mobi
+0.0.0.0 event-staging.inner-active.mobi
+0.0.0.0 m2m1.inner-active.mobi
+0.0.0.0 sdk-events.inner-active.mobi
+0.0.0.0 vast-events.inner-active.mobi
+0.0.0.0 vast-events-staging.inner-active.mobi
+0.0.0.0 wv.inner-active.mobi
+
